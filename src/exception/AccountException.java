@@ -28,7 +28,7 @@ class Account {
 }
 
 public class AccountException {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Account obj = new Account();
